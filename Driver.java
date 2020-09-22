@@ -1,16 +1,3 @@
-/*
-Author: Christopher Roberts
-E-mail: cmr663@psu.edu
-Course: CMPSC 221
-Assigment: Programming Assigment 1
-Due Date: 3/4/2020
-File: Online Shopping Application.java
-Purpose: Java app that implements a shopping cart that a user can add and remove items from
-Compiler/IDE: IntelliJ IDEA
-Operating System: MS Windows 10
-References: https://www.geeksforgeeks.org/arraylist-in-java/, https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html#listIterator--, https://stackabuse.com/java-read-a-file-into-an-arraylist/,
-https://stackoverflow.com/questions/12809009/accessing-an-object-class-variable-in-arraylist-java
- */
 import java.io.*;
 import java.util.*;
 
